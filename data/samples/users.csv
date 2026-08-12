@@ -1,0 +1,4 @@
+﻿id,username,displayName,role,email,houseId,active
+u001,somchai01,สมชาย เรียนเก่ง,student,somchai@school.ac.th,1,true
+u002,teacher01,ครูสมหญิง ประจำบ้าน,teacher,teacher01@school.ac.th,2,true
+u003,guidance01,ครูสมศรี แนะแนว,guidance,guidance01@school.ac.th,,true

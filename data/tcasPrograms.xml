@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tcasPrograms>
+  <program id="p001">
+    <university>เกษตรศาสตร์</university>
+    <faculty>คณะมนุษยศาสตร์ สาขาวิชาดนตรีไทย</faculty>
+    <round>1</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>40</quota>
+  </program>
+  <program id="p002">
+    <university>เกษตรศาสตร์</university>
+    <faculty>คณะวิศวกรรมศาสตร์ ภาควิชาวิศวกรรมคอมพิวเตอร์</faculty>
+    <round>2</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>53</quota>
+  </program>
+  <program id="p003">
+    <university>เทคโนโลยีพระจอมเกล้าธนบุรี</university>
+    <faculty>คณะวิศวกรรมศาสตร์ สาขาวิชาวิศวกรรมคอมพิวเตอร์</faculty>
+    <round>3</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>66</quota>
+  </program>
+  <program id="p004">
+    <university>เทคโนโลยีพระจอมเกล้าธนบุรี</university>
+    <faculty>คณะวิศวกรรมศาสตร์ สาขาวิชาวิศวกรรมเครื่องกล</faculty>
+    <round>4</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>79</quota>
+  </program>
+  <program id="p005">
+    <university>ขอนแก่น</university>
+    <faculty>คณะแพทยศาสตร์ สาขาแพทยศาสตร์</faculty>
+    <round>1</round>
+    <minGPAX>3.50</minGPAX>
+    <quota>92</quota>
+  </program>
+  <program id="p006">
+    <university>จุฬาลงกรณ์</university>
+    <faculty>คณะครุศาสตร์ สาขาวิชาเทคโนโลยีการศึกษา</faculty>
+    <round>2</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>105</quota>
+  </program>
+  <program id="p007">
+    <university>จุฬาลงกรณ์</university>
+    <faculty>คณะวิทยาศาสตร์ สาขาเคมีประยุกต์ (นานาชาติ)</faculty>
+    <round>3</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>118</quota>
+  </program>
+  <program id="p008">
+    <university>ธรรมศาสตร์</university>
+    <faculty>คณะพาณิชยศาสตร์และการบัญชี สาขาบริหารธุรกิจบัณฑิต</faculty>
+    <round>4</round>
+    <minGPAX>2.00</minGPAX>
+    <quota>131</quota>
+  </program>
+  <program id="p009">
+    <university>ธรรมศาสตร์</university>
+    <faculty>คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมซอฟต์แวร์</faculty>
+    <round>1</round>
+    <minGPAX>2.00</minGPAX>
+    <quota>144</quota>
+  </program>
+  <program id="p010">
+    <university>ธรรมศาสตร์</university>
+    <faculty>คณะเศรษฐศาสตร์</faculty>
+    <round>2</round>
+    <minGPAX>2.00</minGPAX>
+    <quota>157</quota>
+  </program>
+  <program id="p011">
+    <university>ธรรมศาสตร์</university>
+    <faculty>คณะสังคมสงเคราะห์ศาสตร์</faculty>
+    <round>3</round>
+    <minGPAX>2.00</minGPAX>
+    <quota>170</quota>
+  </program>
+  <program id="p012">
+    <university>มหิดล</university>
+    <faculty>คณะแพทยศาสตร์ศิริราชพยาบาล</faculty>
+    <round>4</round>
+    <minGPAX>3.50</minGPAX>
+    <quota>183</quota>
+  </program>
+  <program id="p013">
+    <university>มหิดล</university>
+    <faculty>คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์</faculty>
+    <round>1</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>196</quota>
+  </program>
+  <program id="p014">
+    <university>มหิดล</university>
+    <faculty>คณะเทคโนโลยีสารสนเทศและการสื่อสาร</faculty>
+    <round>2</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>209</quota>
+  </program>
+  <program id="p015">
+    <university>ศรีนครินทรวิโรฒ</university>
+    <faculty>คณะศิลปกรรมศาสตร์ สาขาวิชาดนตรีศึกษา</faculty>
+    <round>3</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>42</quota>
+  </program>
+  <program id="p016">
+    <university>ศิลปากร</university>
+    <faculty>คณะสถาปัตยกรรมศาสตร์ สาขาวิชาสถาปัตยกรรม</faculty>
+    <round>4</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>55</quota>
+  </program>
+  <program id="p017">
+    <university>ศิลปากร</university>
+    <faculty>คณะมัณฑนศิลป์ สาขาออกแบบภายใน</faculty>
+    <round>1</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>68</quota>
+  </program>
+  <program id="p018">
+    <university>ศิลปากร</university>
+    <faculty>คณะวิทยาการจัดการ สาขาการตลาด</faculty>
+    <round>2</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>81</quota>
+  </program>
+  <program id="p019">
+    <university>สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง</university>
+    <faculty>คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์</faculty>
+    <round>3</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>94</quota>
+  </program>
+  <program id="p020">
+    <university>กรุงเทพ</university>
+    <faculty>คณะนิเทศศาสตร์ สาขาบรอดแคสติ้ง</faculty>
+    <round>4</round>
+    <minGPAX>2.00</minGPAX>
+    <quota>107</quota>
+  </program>
+  <program id="p021">
+    <university>จุฬาลงกรณ์</university>
+    <faculty>คณะแพทยศาสตร์</faculty>
+    <round>1</round>
+    <minGPAX>3.50</minGPAX>
+    <quota>120</quota>
+  </program>
+  <program id="p022">
+    <university>มหิดล</university>
+    <faculty>คณะเภสัชศาสตร์</faculty>
+    <round>2</round>
+    <minGPAX>3.25</minGPAX>
+    <quota>133</quota>
+  </program>
+  <program id="p023">
+    <university>มหิดล</university>
+    <faculty>คณะพยาบาลศาสตร์</faculty>
+    <round>3</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>146</quota>
+  </program>
+  <program id="p024">
+    <university>มหิดล</university>
+    <faculty>คณะทันตแพทยศาสตร์</faculty>
+    <round>4</round>
+    <minGPAX>3.50</minGPAX>
+    <quota>159</quota>
+  </program>
+  <program id="p025">
+    <university>เกษตรศาสตร์</university>
+    <faculty>คณะสัตวแพทยศาสตร์</faculty>
+    <round>1</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>172</quota>
+  </program>
+  <program id="p026">
+    <university>ขอนแก่น</university>
+    <faculty>คณะเภสัชศาสตร์</faculty>
+    <round>2</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>185</quota>
+  </program>
+  <program id="p027">
+    <university>ศรีนครินทรวิโรฒ</university>
+    <faculty>คณะพยาบาลศาสตร์</faculty>
+    <round>3</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>198</quota>
+  </program>
+  <program id="p028">
+    <university>ธรรมศาสตร์</university>
+    <faculty>คณะสหเวชศาสตร์ สาขากายภาพบำบัด</faculty>
+    <round>4</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>211</quota>
+  </program>
+  <program id="p029">
+    <university>จุฬาลงกรณ์</university>
+    <faculty>คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมไฟฟ้า</faculty>
+    <round>1</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>44</quota>
+  </program>
+  <program id="p030">
+    <university>เกษตรศาสตร์</university>
+    <faculty>คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมโยธา</faculty>
+    <round>2</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>57</quota>
+  </program>
+  <program id="p031">
+    <university>สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง</university>
+    <faculty>คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมการบินและอวกาศ</faculty>
+    <round>3</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>70</quota>
+  </program>
+  <program id="p032">
+    <university>ธรรมศาสตร์</university>
+    <faculty>คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมไฟฟ้ากำลัง</faculty>
+    <round>4</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>83</quota>
+  </program>
+  <program id="p033">
+    <university>มหิดล</university>
+    <faculty>คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมชีวการแพทย์</faculty>
+    <round>1</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>96</quota>
+  </program>
+  <program id="p034">
+    <university>จุฬาลงกรณ์</university>
+    <faculty>คณะพาณิชยศาสตร์และการบัญชี</faculty>
+    <round>2</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>109</quota>
+  </program>
+  <program id="p035">
+    <university>ธรรมศาสตร์</university>
+    <faculty>คณะพาณิชยศาสตร์และการบัญชี สาขาการบัญชี</faculty>
+    <round>3</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>122</quota>
+  </program>
+  <program id="p036">
+    <university>เกษตรศาสตร์</university>
+    <faculty>คณะบริหารธุรกิจ สาขาการเงิน</faculty>
+    <round>4</round>
+    <minGPAX>2.25</minGPAX>
+    <quota>135</quota>
+  </program>
+  <program id="p037">
+    <university>มหิดล</university>
+    <faculty>วิทยาลัยการจัดการ สาขาบริหารธุรกิจ</faculty>
+    <round>1</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>148</quota>
+  </program>
+  <program id="p038">
+    <university>จุฬาลงกรณ์</university>
+    <faculty>คณะสถาปัตยกรรมศาสตร์</faculty>
+    <round>2</round>
+    <minGPAX>3.25</minGPAX>
+    <quota>161</quota>
+  </program>
+  <program id="p039">
+    <university>สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง</university>
+    <faculty>คณะสถาปัตยกรรมศาสตร์ สาขาภูมิสถาปัตยกรรม</faculty>
+    <round>3</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>174</quota>
+  </program>
+  <program id="p040">
+    <university>ศิลปากร</university>
+    <faculty>คณะมัณฑนศิลป์ สาขาออกแบบผลิตภัณฑ์</faculty>
+    <round>4</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>187</quota>
+  </program>
+  <program id="p041">
+    <university>เทคโนโลยีพระจอมเกล้าธนบุรี</university>
+    <faculty>คณะสถาปัตยกรรมศาสตร์และการออกแบบ</faculty>
+    <round>1</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>200</quota>
+  </program>
+  <program id="p042">
+    <university>ธรรมศาสตร์</university>
+    <faculty>คณะนิติศาสตร์</faculty>
+    <round>2</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>213</quota>
+  </program>
+  <program id="p043">
+    <university>จุฬาลงกรณ์</university>
+    <faculty>คณะนิติศาสตร์</faculty>
+    <round>3</round>
+    <minGPAX>3.25</minGPAX>
+    <quota>46</quota>
+  </program>
+  <program id="p044">
+    <university>รามคำแหง</university>
+    <faculty>คณะนิติศาสตร์</faculty>
+    <round>4</round>
+    <minGPAX>2.00</minGPAX>
+    <quota>59</quota>
+  </program>
+  <program id="p045">
+    <university>เชียงใหม่</university>
+    <faculty>คณะรัฐศาสตร์และรัฐประศาสนศาสตร์</faculty>
+    <round>1</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>72</quota>
+  </program>
+  <program id="p046">
+    <university>ศิลปากร</university>
+    <faculty>คณะโบราณคดี</faculty>
+    <round>2</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>85</quota>
+  </program>
+  <program id="p047">
+    <university>จุฬาลงกรณ์</university>
+    <faculty>คณะอักษรศาสตร์</faculty>
+    <round>3</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>98</quota>
+  </program>
+  <program id="p048">
+    <university>ธรรมศาสตร์</university>
+    <faculty>คณะศิลปศาสตร์ สาขาภาษาอังกฤษ</faculty>
+    <round>4</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>111</quota>
+  </program>
+  <program id="p049">
+    <university>เกษตรศาสตร์</university>
+    <faculty>คณะมนุษยศาสตร์ สาขาภาษาญี่ปุ่น</faculty>
+    <round>1</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>124</quota>
+  </program>
+  <program id="p050">
+    <university>หอการค้าไทย</university>
+    <faculty>คณะมนุษยศาสตร์และประยุกต์ศิลป์ สาขาภาษาจีนธุรกิจ</faculty>
+    <round>2</round>
+    <minGPAX>2.00</minGPAX>
+    <quota>137</quota>
+  </program>
+  <program id="p051">
+    <university>จุฬาลงกรณ์</university>
+    <faculty>คณะนิเทศศาสตร์</faculty>
+    <round>3</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>150</quota>
+  </program>
+  <program id="p052">
+    <university>ธรรมศาสตร์</university>
+    <faculty>คณะวารสารศาสตร์และสื่อสารมวลชน</faculty>
+    <round>4</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>163</quota>
+  </program>
+  <program id="p053">
+    <university>ศิลปากร</university>
+    <faculty>คณะจิตรกรรม ประติมากรรมและภาพพิมพ์</faculty>
+    <round>1</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>176</quota>
+  </program>
+  <program id="p054">
+    <university>ศรีนครินทรวิโรฒ</university>
+    <faculty>คณะศิลปกรรมศาสตร์ สาขาการแสดง</faculty>
+    <round>2</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>189</quota>
+  </program>
+  <program id="p055">
+    <university>จุฬาลงกรณ์</university>
+    <faculty>หลักสูตรนานาชาติ บริหารธุรกิจ (BBA)</faculty>
+    <round>3</round>
+    <minGPAX>3.00</minGPAX>
+    <quota>202</quota>
+  </program>
+  <program id="p056">
+    <university>ธรรมศาสตร์</university>
+    <faculty>หลักสูตรนานาชาติ วิศวกรรมศาสตร์ (TEP/TEPE)</faculty>
+    <round>4</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>215</quota>
+  </program>
+  <program id="p057">
+    <university>มหิดล</university>
+    <faculty>วิทยาลัยนานาชาติ (MUIC)</faculty>
+    <round>1</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>48</quota>
+  </program>
+  <program id="p058">
+    <university>ศรีนครินทรวิโรฒ</university>
+    <faculty>คณะศึกษาศาสตร์</faculty>
+    <round>2</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>61</quota>
+  </program>
+  <program id="p059">
+    <university>เกษตรศาสตร์</university>
+    <faculty>คณะศึกษาศาสตร์และพัฒนศาสตร์</faculty>
+    <round>3</round>
+    <minGPAX>2.50</minGPAX>
+    <quota>74</quota>
+  </program>
+  <program id="p060">
+    <university>เชียงใหม่</university>
+    <faculty>คณะครุศาสตร์</faculty>
+    <round>4</round>
+    <minGPAX>2.75</minGPAX>
+    <quota>87</quota>
+  </program>
+</tcasPrograms>
