@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<grades>
+  <grade id="gr001">
+    <studentId>s001</studentId>
+    <subject>คณิตศาสตร์ 1</subject>
+    <group>คณิตศาสตร์</group>
+    <credit>1</credit>
+    <grade>3.5</grade>
+    <level>ม.4</level>
+    <term>เทอม 1</term>
+  </grade>
+  <grade id="gr002">
+    <studentId>s001</studentId>
+    <subject>ฟิสิกส์ 2</subject>
+    <group>วิทยาศาสตร์</group>
+    <credit>2</credit>
+    <grade>4</grade>
+    <level>ม.4</level>
+    <term>เทอม 1</term>
+  </grade>
+  <grade id="gr003">
+    <studentId>s001</studentId>
+    <subject>เคมี 1.5</subject>
+    <group>วิทยาศาสตร์</group>
+    <credit>1.5</credit>
+    <grade>3</grade>
+    <level>ม.4</level>
+    <term>เทอม 1</term>
+  </grade>
+  <grade id="gr004">
+    <studentId>s001</studentId>
+    <subject>ภาษาอังกฤษ 1</subject>
+    <group>ภาษาต่างประเทศ</group>
+    <credit>1</credit>
+    <grade>4</grade>
+    <level>ม.4</level>
+    <term>เทอม 1</term>
+  </grade>
+  <grade id="gr005">
+    <studentId>s001</studentId>
+    <subject>คณิตศาสตร์ 1</subject>
+    <group>คณิตศาสตร์</group>
+    <credit>1</credit>
+    <grade>4</grade>
+    <level>ม.4</level>
+    <term>เทอม 2</term>
+  </grade>
+  <grade id="gr006">
+    <studentId>s001</studentId>
+    <subject>ฟิสิกส์ 2</subject>
+    <group>วิทยาศาสตร์</group>
+    <credit>2</credit>
+    <grade>3.5</grade>
+    <level>ม.4</level>
+    <term>เทอม 2</term>
+  </grade>
+  <grade id="gr007">
+    <studentId>s001</studentId>
+    <subject>ชีววิทยา</subject>
+    <group>วิทยาศาสตร์</group>
+    <credit>1.5</credit>
+    <grade>4</grade>
+    <level>ม.5</level>
+    <term>เทอม 1</term>
+  </grade>
+  <grade id="gr008">
+    <studentId>s001</studentId>
+    <subject>ภาษาอังกฤษ 3</subject>
+    <group>ภาษาต่างประเทศ</group>
+    <credit>1</credit>
+    <grade>3.5</grade>
+    <level>ม.5</level>
+    <term>เทอม 1</term>
+  </grade>
+  <grade id="gr009">
+    <studentId>s12345</studentId>
+    <subject>ชีววิทยาระดับเซลล์</subject>
+    <group>วิทยาศาสตร์</group>
+    <credit>1.5</credit>
+    <grade>4</grade>
+    <level>ม.5</level>
+    <term>เทอม 1</term>
+  </grade>
+  <grade id="gr010">
+    <studentId>s12345</studentId>
+    <subject>เคมีอินทรีย์</subject>
+    <group>วิทยาศาสตร์</group>
+    <credit>1.5</credit>
+    <grade>4</grade>
+    <level>ม.5</level>
+    <term>เทอม 1</term>
+  </grade>
+  <grade id="gr011">
+    <studentId>s12345</studentId>
+    <subject>คณิตศาสตร์การแพทย์</subject>
+    <group>คณิตศาสตร์</group>
+    <credit>1</credit>
+    <grade>3.5</grade>
+    <level>ม.5</level>
+    <term>เทอม 1</term>
+  </grade>
+  <grade id="gr012">
+    <studentId>s12345</studentId>
+    <subject>ภาษาอังกฤษการแพทย์</subject>
+    <group>ภาษาต่างประเทศ</group>
+    <credit>1</credit>
+    <grade>4</grade>
+    <level>ม.5</level>
+    <term>เทอม 2</term>
+  </grade>
+</grades>

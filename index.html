@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Grow A Grade+ — ระบบติดตามผลการเรียน</title>
+  <meta name="description" content="Grow A Grade+ ระบบติดตามผลการเรียน TCAS และวางแผนอนาคตสำหรับนักเรียน ครู และผู้ดูแลระบบ"/>
+  <script src="js/auth.js"></script>
+  <script>
+    // Redirect based on existing session or to login
+    const user = Auth.getUser();
+    if (user) {
+      window.location.replace('pages/' + Auth.getDashboard(user.role));
+    } else {
+      window.location.replace('login.html');
+    }
+  </script>
+</head>
+<body>
+  <p style="font-family:sans-serif;padding:32px;color:#666">กำลังโหลด… / Loading…</p>
+</body>
+</html>
