@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell($f=\"E:\\\\gdrive\\\\โครงงานนักเรียน\\\\69\\\\gAtam\\\\web\\\\ex\\\\java.js\"; \"Lines: \" + \\(Get-Content $f | Measure-Object -Line\\).Lines; \"--- diff vs root java.js ---\"; if \\(\\(Get-FileHash $f\\).Hash -eq \\(Get-FileHash \"E:\\\\gdrive\\\\โครงงานนักเรียน\\\\69\\\\gAtam\\\\web\\\\java.js\"\\).Hash\\) { \"IDENTICAL to web\\\\java.js\" } else { \"DIFFERENT from web\\\\java.js\" })",
-      "Bash(node -e ' *)"
-    ]
-  }
-}
